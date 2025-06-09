@@ -13,3 +13,12 @@ Student Info: {'name': 'Bhavani', 'age': 22, 'is_student': True}
 <class 'float'>
 <class 'bool'>
 <class 'dict'>
+
+
+
+
+My name is Bhavani H B  and I'm 22 years old
+I am learning basic Python programming
+  i am learning basic python programming  
+  I AM LEARNING BASIC PYTHON PROGRAMMING  
+  I am learning basic Java programming  

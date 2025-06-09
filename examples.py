@@ -23,3 +23,39 @@ print(type(age))
 print(type(height))
 print(type(is_student))
 print(type(student_info))
+
+
+
+
+
+
+
+#string creation
+single_quote = 'Hello'
+double_quote = "World"
+multiline = """This is Bhavani"""
+
+
+#string operations
+first_name = "Bhavani"
+last_name = "H B"
+full_name = first_name + " " + last_name
+
+
+#string formatting
+full_name = "Bhavani H B "
+age = 22
+message = f"My name is {full_name} and I'm {age} years old"
+print(message)
+
+
+#string methods
+text = "  I am learning basic Python programming  "
+print(text.strip())
+print(text.lower())
+print(text.upper())
+print(text.replace("Python", "Java"))  
+print(len(text))
+
+
+
